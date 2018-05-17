@@ -1,0 +1,7 @@
+ImmutableMultiDict([('phrase', 'oossllsoosasd'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'o', 'a'}
+ImmutableMultiDict([('phrase', 'oossllsoosasd'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'a', 'o'}
+ImmutableMultiDict([('phrase', 'jjaosdjklsajkd'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'a', 'o'}
+ImmutableMultiDict([('phrase', 'kjaksjdk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'a'}
+ImmutableMultiDict([('phrase', 'asdasd'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'a'}
+ImmutableMultiDict([('phrase', 'aksjdklasjdjaskljdkla'), ('letters', 'sdsadsf')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'a', 'd', 's'}
+ImmutableMultiDict([('phrase', 'aksjdklasjdjaskljdkla'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:59.0) Gecko/20100101 Firefox/59.0|{'a'}
