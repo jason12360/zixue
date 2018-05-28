@@ -6,7 +6,7 @@ from PIL import Image,ImageTk
 
 #创建Tk对象
 root = tk.Tk()
-image = Image.open('/home/tarena/aid1803/pweb/day05/test.jpg')
+image = Image.open('buttons.jpg')
 #创建图片对象
 photo = ImageTk.PhotoImage(image)
 #创建label对象
