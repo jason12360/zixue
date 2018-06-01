@@ -1,0 +1,7 @@
+按钮
+ 功能：
+ 	1.Buttons can contain text or images 
+ 	2.you can associate a Python function or method with each button. When the button is pressed, Tkinter automatically calls that function or method.
+ 参数：
+ 	1.You can use the padx and pady option to add some extra space between the contents and the button border.
+ 	2.You can also use the height and width options to explicitly set the size. If you display text in the button, these options define the size of the button in text units.
